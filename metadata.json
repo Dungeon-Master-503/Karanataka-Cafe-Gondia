@@ -1,0 +1,6 @@
+{
+  "name": "Karnataka Cafe & La Pizzato",
+  "description": "Experience authentic South Indian, North Indian, Chinese, Pizza, Pasta and Burgers at Karnataka Cafe & La Pizzato in Gondia. Book your table today or order via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
